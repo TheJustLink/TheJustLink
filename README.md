@@ -1,3 +1,5 @@
+<br>
+
 <h3 align="center">🛠 Languages and Tools 🛠</h3>
 
 <p align="center">
@@ -60,12 +62,14 @@
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"/>
 </p>
 
+<br>
+
 <h3 align="center">📟 Services 📟</h3>
 <p align="center">
   🗃️ <a href="https://fileshare.lincors.com">FileShare</a> <img src="https://img.shields.io/website-up-down-green-red/http/minio.lincors.com.svg" alt="FileShare"/>
 </p>
 
-<h3 align="center">⚙️ GitHub Analytics ⚙️</h3>
+<br><br>
 
 <p align="center">
   <a href="https://github.com/TheJustLink">
